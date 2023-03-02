@@ -38,3 +38,4 @@ To get a specific version, use go1.11+ and fetch the desired version using the g
 
 `go get k8s.io/client-go@v0.20.4`
 
+#supports v1.23 of k8s
