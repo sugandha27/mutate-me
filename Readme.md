@@ -27,3 +27,14 @@ Have a nice day! 👋
 ## About Go Packages 
 - Gorilla MUX
 - k8s.io/client-go
+
+## How to get it
+
+To get the latest version, use go1.16+ and fetch using the go get command. For example:
+
+`go get k8s.io/client-go@latest`
+
+To get a specific version, use go1.11+ and fetch the desired version using the go get command. For example:
+
+`go get k8s.io/client-go@v0.20.4`
+
